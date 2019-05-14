@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 dsfvdvdsvdsvsdv
 
 I'm bad
 
+=======
+I'm badi
+Hello
+Hi
+This are the changes
+>>>>>>> e7ef956327e2556661128a90b7788bd24d1c782b
